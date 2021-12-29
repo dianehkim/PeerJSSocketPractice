@@ -1,4 +1,4 @@
-# PeerJSSocketPractice
+# Video Chat App
 practice using PeerJS and Socket.IO 
 
 installing dependencies:
