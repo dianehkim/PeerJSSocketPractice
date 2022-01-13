@@ -12,4 +12,4 @@ we make changes so that we do not need to manually restart our server.
 
 running the code:  
 npm run devStart   
-peerjs --Port 3001 
+peerjs --port 3001 
